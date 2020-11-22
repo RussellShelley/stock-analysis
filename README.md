@@ -26,7 +26,7 @@ We set timers in each macro to test for speed.
 
 ## Results of stock analysis ##
 From using our macro we can see that "DQ" may not be the best investment. It was the top performer in 2017, but in 2018 it did not fare well. "DQ" returns in 2018 were -62.6%.  A better option may be "ENPH" (81.9%) or "RUN" (84%). 
-
+![2018results](RussellShelley/Imagefiles/2018results.png)
 
 ### Advantages and disadvantages of refactoring code. 
 Refactoring code can improve the design of existing code. Code can become easier to read, unnecessary complexity can be removed, bugs can be found.  Better code structure means the code can be, fixed easier(maintainability), reused, and is a better base for future expansion(extensibility).  It can also increase performance speed of code.
