@@ -39,8 +39,8 @@ The refactored VBA script is considerably faster than the original. This would b
  Speed test for refactored code for "2017" and "2018"
 
 
- ![Speedtest2017](resources/VBA_Challenge_2017.png)
- ![Speedtest2018](resources/VBA_Challenge_2018.png)
+ ![Speedtest2017](Resources/VBA_Challenge_2017.png)
+ ![Speedtest2018](Resources/VBA_Challenge_2018.png)
 
 
 
